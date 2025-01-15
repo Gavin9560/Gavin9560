@@ -31,7 +31,7 @@ Beyond technical skills, I enjoy Learning, fostering a culture of innovation and
 ## 📊 Featured Projects  
 Here are some of the projects I've worked on:  
 
-- [Project 1](https://github.com/yourusername/project1): Brief description of what this project achieves or solves.  
+- [Project 1](https://github.com/Gavin9560/HR-Data-Project): An analytical project centered on exploring HR datasets to uncover insights on employee distribution, demographics, and performance. Utilizing SQL and PowerBI helps streamline workforce management and improve HR decision-making.  
 - [Project 2](https://github.com/yourusername/project2): Brief description of this project and its impact.  
 
 Feel free to explore my repositories to see more of my work!  
