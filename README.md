@@ -11,7 +11,7 @@ Beyond technical skills, I enjoy Learning, fostering a culture of innovation and
 
 ## 🛠 Skills  
 - **Languages**: Python, SQL  
-- **Tools**: Power BI, Excel, Visual Studio Code, Google Colab, Git  
+- **Tools**: Power BI, Excel, Visual Studio Code, Google Colab, Git, SPSS, Minitab 
 - **Expertise**:  
   - Data Analysis & Visualization  
   - Business Intelligence & Reporting  
