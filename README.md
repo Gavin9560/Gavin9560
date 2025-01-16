@@ -47,7 +47,8 @@ You can connect with me on these platforms:
 - **[Instagram](https://www.instagram.com/gavinemeka/)**
 - **[WhatsApp](https://wa.link/vg5xfj)**
 - **[Facebook](https://web.facebook.com/profile.php?id=100004545616800)**
-- **[Youtube](https://www.youtube.com/channel/UCqmZTmmX1nrW_5-Ili-df3Q)**      
+- **[Youtube](https://www.youtube.com/channel/UCqmZTmmX1nrW_5-Ili-df3Q)**
+- **[Upwork](https://www.upwork.com/freelancers/~01974262901a4d63dc)     
 
 Or feel free to reach out via email:  
 📧 **[emekagarvin2015@gmail.com](mailto:emekagarvin2015@gmail.com)**  
